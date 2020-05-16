@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+h1{
+	
+    border-with:medium;
+	border-bottom: dotted;
+	text-align: center;
+	height: 60px;
+	font-size: 3em;
+	padding-top: 5px; 
+}
+p{
+    color: #6666D9;
+    background-color: #DDB78E;
+    width: 1300px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+   font-size: 1.5em;
+width:10%
+padding:10px;
+	margin-left: 50px;
+}
+h2{
+    color: #68C652;
+    background-color: #F8D570;
+	width: 550px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: 300px;
+	width: 90%;
+	margin-left:10px;
+	
+}
+
+h3{
+	color:#EF6205;
+	background-color:antiquewhite;
+	width: 700px;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: 500px;
+	width: 90%;
+	padding: 3px;
+	margin-left: 30px;
+}
+
+h4{
+	color: #6666D9;
+	font-size: 1em;
+	background-color: #DDB78E;
+	width: 80px;
+	margin-left: 10px;
+}
+h5{
+	color: #68C652;
+	font-size: 1em;
+	background-color: #F8D570;
+	width: 80px;
+	margin-left: 10px;
+}
+h6{
+	color: #EF6205;
+	font-size: 1em;
+	background-color:antiquewhite;
+	width: 80px;
+	margin-left: 10px;
+}
